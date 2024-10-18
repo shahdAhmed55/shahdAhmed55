@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-This is Shahd Ahmed, From Egypt<br>I'm Frontend Developer
+This is Shahd Ahmedt<br>
 
 
 ## 🌐 Socials:
