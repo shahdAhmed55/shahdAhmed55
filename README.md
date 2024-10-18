@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-This is Shahd Ahmedt<br>
+This is Shahd Ahmed<br>
 
 
 ## 🌐 Socials:
