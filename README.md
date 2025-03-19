@@ -11,7 +11,7 @@
 <hr/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/shahd-ahmed-507110288/‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[shahd-abdelwahab-507110288/]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahd-ahmed-507110288/‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahd-abdelwahab-507110288/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shahd55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shahd55" height="30" width="40" /></a>
 </p>
 
