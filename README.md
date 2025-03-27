@@ -9,7 +9,7 @@
 
 
 <hr/>
-<h2 align="center">Connect with me</h2>
+<h2 align="center" font-size = 25px>Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/shahd-abdelwahab-507110288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahd Abdelwahab‏" height="50" width="60" /></a>
 <a href="https://codeforces.com/profile/shahd55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shahd55" height="50" width="60" /></a>
